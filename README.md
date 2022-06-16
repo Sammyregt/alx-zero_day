@@ -1,2 +1,3 @@
-My first readme \n
+My first readme 
+
 Feeling good learning Git
